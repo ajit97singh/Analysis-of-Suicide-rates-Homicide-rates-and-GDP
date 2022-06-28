@@ -4,3 +4,5 @@
 
  In this notebook I have used the data from kaggle 
  source link : https://www.kaggle.com/datasets/prasertk/homicide-suicide-rate-and-gdp
+ 
+ Libraries used : numpy , pandas , matplotlib, seaborn, sklearn
